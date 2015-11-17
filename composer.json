@@ -1,0 +1,14 @@
+{
+    "name": "prodatakey/yourls-gatrack",
+    "require": {
+        "theiconic/php-ga-measurement-protocol": "^2.0",
+        "ramsey/uuid": "^3.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Josh Perry",
+            "email": "josh@pdk.io"
+        }
+    ]
+}
